@@ -1,0 +1,100 @@
+*{
+			background-color: #000;
+			text-decoration-style: solid;
+			margin: 0px;
+			padding: 0px;
+			font-family: Calibri;
+			transition: 0.2s;}
+
+h1{
+			background-color: #152233;
+			padding: 50px;
+			margin: 20px;
+			width: 700px;
+			height: 50px;	
+			color: #FFF;
+			font-size: 50px;}
+
+h2{			color: #FFF;
+			padding-top: 0px;
+			font-size: 30px;
+			margin-bottom: 75px;}
+
+h3{			color: #FFF;
+			font-size: 30px}
+
+.p{			font-size: 20px;
+			color: #FFF;
+			margin: 20px;
+			width: 700px;}
+
+h4{			color: #FFF;
+			font-size: 30px;}
+
+.Nombre{	font-size: 20px;
+			color: #FFF;
+			text-shadow: #FFF;
+			text-overflow: #FFF;
+			text-decoration: #FFF}
+
+.Nombre:hover{
+			box-shadow: 0px 0px 20px 2px #FFF;}
+
+.E-mail{	color: #FFF;
+			font-size: 20px;}
+
+.E-mail:hover{
+			box-shadow: 0px 0px 20px 2px #FFF;}
+
+.Comentarios{
+			font-size: 20px;
+			color: #FFF;
+			height:100px; 
+			width:60px;}
+
+input{		color: #FFF;}
+
+textarea{	color:#FFF;
+			font-size: 20px;
+			height: 300px; 
+			width: 540px;}
+
+textarea:hover{
+			box-shadow: 0px 0px 20px 2px #FFF;}		
+
+#Enviar{
+			color: #FFF;
+			padding-right: 16px;
+			padding-left: 16px;
+			padding-bottom: 10px;
+			padding-top: 10px;
+			border-radius: 20px 20px 20px 20px;}
+
+.bajos{
+			color: #FFF;
+			font-size: 30px;}
+
+.ubicacion{	font-size: 20px;
+			color: #FFF;}
+.arrow{ color: #FFF;
+		margin: 40px;}
+
+.buttom:hover {
+			box-shadow: 0px 0px 20px 2px #FFF;}
+
+#map {
+	height: 500px;
+	width: 100%;}
+
+.item{ display: none;
+	padding: center;
+	margin: center;}
+
+.item:first-child{
+	display: flex;
+}
+
+.arrow{ padding: 0px;
+		margin: 0px;
+		font-size: 80px; }
+

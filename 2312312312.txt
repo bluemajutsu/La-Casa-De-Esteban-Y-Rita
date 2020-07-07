@@ -1,0 +1,18 @@
+		<center>
+			<h3><b><i>Imagenes</i></b></h3>
+		</center>
+<div>
+	<i class="fas fa-angle-left"></i>
+<center>
+	<div class="img" width= "2100" height= "500">
+		<img class="zoom" src="2.jpg" width="20%" height="50%"></img>
+		<img class="zoom" src="3.jpg" width="20%" height="50%"></img>
+		<img class="zoom" src="7.jpg" width="20%" height="50%"></img>
+	</div>
+	<div class="img">
+		<img class="zoom" src="4.jpg" width="20%" height="50%"></img>
+		<img class="zoom" src="5.jpg" width="20%" height="50%"></img>
+		<img class="zoom" src="6.jpg" width="20%" height="50%"></img>
+	</div>
+</div>
+</center>
